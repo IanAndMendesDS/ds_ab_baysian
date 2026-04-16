@@ -1,3 +1,4 @@
 data/
 .venv/
 driver/
+__pycache__/
